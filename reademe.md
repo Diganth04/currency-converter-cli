@@ -122,5 +122,5 @@ currency-converter-cli/
 
 ## Author
 
-Diganth
-Aspiring Full-Stack Developer
+Diganth  
+Full-Stack Developer | Java | AI/ML  
